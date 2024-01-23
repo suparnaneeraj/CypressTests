@@ -1,0 +1,15 @@
+{
+    "url":"hello",
+    "valid_credentials":
+        {
+        "username":"Admin",
+        "password":"admin123",
+        "user":"shekar"
+        },
+    "invalid_credentials":{
+        "username":"Admin3",
+        "password":"admin1233"
+    }
+
+
+}
